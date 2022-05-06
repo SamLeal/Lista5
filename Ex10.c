@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void calculador(){
+
+}
+
 int main(){
         /*Crie um procedimento para:
 ler uma linha do teclado; defina essa linha como global ;
@@ -8,5 +12,5 @@ ler uma linha do teclado; defina essa linha como global ;
             ENTRADA                 SAIDA
             
 */
-
+  calculador();
 }
