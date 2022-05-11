@@ -11,9 +11,11 @@ void calculador(){
   fflush(stdin);
   gets(palavra);
   
-  if (int i=0; i != '\0'; )
-  {
-    /* code */
+  for (int i = 0; i != '\0'; i++){
+    if (palavra[i] > 'a' && palavra[i] < 'z')
+    {
+      (palavra[i] = palavra[i]-32);
+    }
   }
   
 
