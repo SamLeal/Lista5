@@ -89,4 +89,5 @@ contar e mostrar todos os valores lidos que tenham suas partes fracionárias ao 
     0.2 0.8, 3, 11.4 11.5 11.1                        11.40 11.50, 2 numeros no intervalo.
 */
   calculador();
+  return 0;
 }

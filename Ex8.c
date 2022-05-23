@@ -63,4 +63,5 @@ definirem um intervalo; ( esses valores deverão ser globais)
         0 100, 3, 11.6 11.4 12                    11.6 11.4, 2 valores impares.
 */
   calculador();
+  return 0;
 }

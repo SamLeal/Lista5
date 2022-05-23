@@ -27,4 +27,5 @@ DICA: Definir um teste para determinar se um caractere é letra maiúscula.
             BaNaNa                  B N N
 */
     calculador();
+    return 0;
 }

@@ -29,4 +29,5 @@ int main(){
             b.=c.,a                 3 letras
 */
   calculador();
+  return 0;
 }

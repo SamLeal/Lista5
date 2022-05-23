@@ -40,4 +40,5 @@ int main(){
               bana123           3 2 1, 3 digitos.
 */
 calculador();
+return 0;
 }

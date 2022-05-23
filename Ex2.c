@@ -51,4 +51,5 @@ int main()
       banana, C            4 menores, 2 maiores, 0 iguais.
 */
   calculador();
+  return 0;
 }

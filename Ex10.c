@@ -31,4 +31,5 @@ ler uma linha do teclado; defina essa linha como global ;
           qwertyuiop´[]             ´[]
 */
   calculador();
+  return 0;
 }

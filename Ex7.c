@@ -52,4 +52,5 @@ pertençam ao intervalo.
         0 100, 300 12 15 21 -1                  12 21, 2 numeros.
 */
   calculador();
+  return 0;
 }

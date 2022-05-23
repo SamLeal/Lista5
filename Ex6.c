@@ -52,4 +52,5 @@ int main(){
         0 100, 140 6 15 -1            6
 */
   calculador();
+  return 0;
 }

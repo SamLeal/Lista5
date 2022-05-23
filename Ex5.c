@@ -32,4 +32,5 @@ int main(){
             ba2B.                 b . , 2 caracteres
 */
   calculador();
+  return 0;
 }
